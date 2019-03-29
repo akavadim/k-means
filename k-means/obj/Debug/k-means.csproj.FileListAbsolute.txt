@@ -1,10 +1,11 @@
 C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\bin\Debug\k-means.exe.config
 C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\bin\Debug\k-means.exe
 C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\bin\Debug\k-means.pdb
-C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\obj\Debug\k-means.csprojAssemblyReference.cache
 C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\obj\Debug\k_means.Form1.resources
 C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\obj\Debug\k_means.Properties.Resources.resources
 C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\obj\Debug\k-means.csproj.GenerateResource.cache
 C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\obj\Debug\k-means.csproj.CoreCompileInputs.cache
 C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\obj\Debug\k-means.exe
 C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\obj\Debug\k-means.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\obj\Debug\k_means.Form2.resources
+C:\Users\vadim\OneDrive\Рабочий стол\ВШЭ\Курсачи\k-means\k-means\obj\Debug\k-means.csprojAssemblyReference.cache
